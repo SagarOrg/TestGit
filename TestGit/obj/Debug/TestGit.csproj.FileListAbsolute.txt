@@ -1,1 +1,6 @@
 E:\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe.config
+E:\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe
+E:\TestGit\TestGit\TestGit\bin\Debug\TestGit.pdb
+E:\TestGit\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+E:\TestGit\TestGit\TestGit\obj\Debug\TestGit.exe
+E:\TestGit\TestGit\TestGit\obj\Debug\TestGit.pdb
