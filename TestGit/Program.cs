@@ -12,6 +12,7 @@ namespace TestGit
         {
             //sagar
             //hi
+            Console.WriteLine("Hi");
         }
     }
 }
