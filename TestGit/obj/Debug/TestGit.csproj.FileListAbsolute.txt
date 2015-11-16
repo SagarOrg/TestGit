@@ -7,3 +7,6 @@ E:\TestGit\TestGit\TestGit\obj\Debug\TestGit.pdb
 E:\TestGitClone\TestGit\bin\Debug\TestGit.exe.config
 E:\TestGitClone\TestGit\obj\Debug\TestGit.exe
 E:\TestGitClone\TestGit\obj\Debug\TestGit.pdb
+E:\TestGitClone\TestGit\bin\Debug\TestGit.exe
+E:\TestGitClone\TestGit\bin\Debug\TestGit.pdb
+E:\TestGitClone\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
