@@ -15,4 +15,3 @@ D:\VisualStudio2013\TestGit\TestGit\obj\Debug\TestGit.exe
 D:\VisualStudio2013\TestGit\TestGit\obj\Debug\TestGit.pdb
 D:\VisualStudio2013\TestGit\TestGit\bin\Debug\TestGit.exe
 D:\VisualStudio2013\TestGit\TestGit\bin\Debug\TestGit.pdb
-D:\VisualStudio2013\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
